@@ -9,7 +9,7 @@ A modern, user-friendly Streamlit application for encrypting and decrypting text
 
 ## 🚀 Live Demo
 
-**[Launch App on Streamlit Cloud](#)** *https://aes-encryption-tool-fvtccjrelazhafqseeexxr.streamlit.app/*
+**[Launch App on Streamlit Cloud](https://aes-encryption-tool-fvtccjrelazhafqseeexxr.streamlit.app/)** 
 
 ---
 
