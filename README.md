@@ -9,7 +9,7 @@ A modern, user-friendly Streamlit application for encrypting and decrypting text
 
 ## 🚀 Live Demo
 
-**[Launch App on Streamlit Cloud](#)** *(Add your deployed URL here after deployment)*
+**[Launch App on Streamlit Cloud](#)** *https://aes-encryption-tool-fvtccjrelazhafqseeexxr.streamlit.app/*
 
 ---
 
@@ -29,10 +29,12 @@ A modern, user-friendly Streamlit application for encrypting and decrypting text
 ## 🖼️ Screenshots
 
 ### Encryption Interface
-*Add screenshot here after deployment*
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/3a8ec716-50c8-4b88-9187-7dab0850b832" />
+
 
 ### Decryption Interface
-*Add screenshot here after deployment*
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/146198b4-7850-4946-9143-62ff82ecc9f7" />
+
 
 ---
 
@@ -230,10 +232,8 @@ AES-Encryption-Tool/
 │
 ├── DEPLOYMENT_GUIDE.md      # Detailed deployment instructions
 ├── QUICK_START.md          # 5-minute setup guide
-│
-└── screenshots/            # UI screenshots (add after deployment)
-    ├── encrypt.png
-    └── decrypt.png
+└──
+
 ```
 
 ---
@@ -368,7 +368,6 @@ MIT License - Free to use, modify, and distribute
 ### Connect with me:
 
 - 🐙 GitHub: [@Ishika-guptaa25](https://github.com/Ishika-guptaa25)
-- 💼 Portfolio: [Hill Cipher Project](https://github.com/Ishika-guptaa25/Hill-Cipher-Encryption)
 
 ---
 
@@ -377,7 +376,6 @@ MIT License - Free to use, modify, and distribute
 - **Streamlit Team** - For the amazing framework
 - **PyCryptodome** - For robust cryptography library
 - **Python Community** - For continuous support
-- **You** - For using this tool! ⭐
 
 ---
 
